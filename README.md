@@ -10,7 +10,7 @@ Welcome to the Books Wiki web application! This application allows users to add,
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
