@@ -23,9 +23,6 @@ const corsOptions = {
     credentials: true
 }
 
-app.get("/", cors(corsOptions), (req, res) => {
-    res.send("Welcome to your Wix Enter exam!");
-});
 
 app.get("/user", cors(corsOptions), (req, res) => {
     const userId = req.cookies?.userId || uuidv4();
